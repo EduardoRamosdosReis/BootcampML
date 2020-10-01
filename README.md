@@ -1,2 +1,2 @@
 # BootcampML
-Exemplo Pandas, Numpy, Matplotlib.pyplot 
+Aplicação regressão Linear // LinearRegrassion
